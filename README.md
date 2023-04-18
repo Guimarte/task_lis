@@ -1,16 +1,20 @@
-# task_list
 
-A new Flutter project.
+# Task List
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Projeto
+Criado para aprender sobre utilizar o GETX para iniciar uma tela consumindo API que nesse caso foi utilizado o firebase com o firestore para fazer uma taskList.
+Também utilizei o GETX para criar um botão de DarkTheme e LighTheme no aplicativo.Na referência utilizei uma video aula, porem apliquei o GETX,no video é utilizado o Provider para gerência de estado.
+## Referência
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - [Flutter Tutorial - Flutter Dark Mode Switch - Light & Dark Theme For Android & iOS - Using Provider](https://www.youtube.com/watch?v=HSAa9yi0OMA)
+ 
+
+
+## Stack utilizada
+
+**Front-end:** Dart / Flutter
+
+**Gerencia de estado:** GETX
